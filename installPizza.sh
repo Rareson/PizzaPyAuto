@@ -26,6 +26,9 @@
 
 # This script is for installing Pizza.py and its dependencies.
 
+# You can find the script and the required packages in my github repository:
+# https://github.com/Rareson/PizzaPyAuto
+
 # This script is a direct learning result of Linux Shell Scripting Tutorial
 # v1.05r3 - A Beginner's handbook(http://www.freeos.com/guides/lsst/)
 
