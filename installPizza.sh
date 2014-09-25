@@ -79,7 +79,7 @@
 if [ $# -eq 0 ]
 then
 echo "Usage - $0   directory"
-echo "$0 : You must give/supply the directory"
+echo "$0 : You must give/supply the directory. Please type it here:"
 read workingDir
 echo "The current working directory is $workingDir"
 else
